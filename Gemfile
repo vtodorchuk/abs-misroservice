@@ -19,7 +19,7 @@ gem 'sequel', '~> 5.60.0'
 gem 'dry-initializer', '~> 3.0.4'
 gem 'dry-validation', '~> 1.10.0'
 
-gem 'activesupport', '~> 6.1.0', require: false
+gem 'activesupport', '~> 6.0.0', require: false
 gem 'jsonapi-serializer', '~> 2.2'
 
 group :test do
