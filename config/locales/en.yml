@@ -1,2 +1,10 @@
 en:
-  hello: 'Hello, world!'
+  model:
+    errors:
+      ad:
+        city:
+          blank: 'City is blank'
+        title: 
+          blank: 'Title is blank'
+        description: 
+          blank: 'Description is blank'
